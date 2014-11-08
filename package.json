@@ -1,0 +1,29 @@
+{
+  "name": "MyTodos",
+  "version": "1.0.0",
+  "description": "online simple clean ToDo list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GDur/yolo-furry-avenger.git"
+  },
+  "keywords": [
+    "todo",
+    "list",
+    "simple",
+    "clean"
+  ],
+  "author": "GDur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GDur/yolo-furry-avenger/issues"
+  },
+  "homepage": "https://github.com/GDur/yolo-furry-avenger",
+  "dependencies": {
+    "angular": "^1.3.2",
+    "bootstrap": "^3.3.0"
+  }
+}
